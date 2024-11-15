@@ -68,7 +68,7 @@ const Footer = () => {
             <h4>Contact</h4>
             <div>
               <FaPhone />
-              <span>999-999-9999</span>
+              <span>635-424-0019</span>
             </div>
             <div>
               <MdEmail />
@@ -76,7 +76,7 @@ const Footer = () => {
             </div>
             <div>
               <FaLocationArrow />
-              <span>Karachi, Pakistan</span>
+              <span>Pune, Maharashtra</span>
             </div>
           </div>
         </div>

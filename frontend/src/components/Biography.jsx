@@ -1,6 +1,6 @@
 import React from "react";
 
-const Biography = ({imageUrl}) => {
+const Biography = ({ imageUrl }) => {
   return (
     <>
       <div className="container biography">
@@ -11,26 +11,32 @@ const Biography = ({imageUrl}) => {
           <p>Biography</p>
           <h3>Who We Are</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+            Zeecare Hospital stands as a beacon of hope, blending expertise with
+            heartfelt care. With cutting-edge technology and a team of skilled
+            professionals, we prioritize patient-centered healthcare. Our
+            services span from routine checkups to complex procedures, ensuring
+            comprehensive care under one roof. Every aspect of Zeecare is
+            designed to provide a supportive and healing environment for
+            patients and their families. Innovation, trust, and compassion form
+            the pillars of our approach, setting new benchmarks in healthcare
+            delivery. At Zeecare, every individual matters, and our unwavering
+            focus is on enhancing lives through quality care. We strive to be
+            more than a hospital — a partner in your journey toward health and
+            wellness.
           </p>
           <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
+          <p>We love flexi.</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
-            assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
-            obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
-            cupiditate natus provident. Ex illum quasi pariatur odit nisi
-            voluptas illo qui ipsum mollitia. Libero, assumenda?
+            At Zeecare Hospital, we prioritize trust and compassionate care for
+            every individual. Our expert teams ensure accurate diagnoses and
+            personalized treatments for all patients. From modern facilities to
+            a focus on preventive care, Zeecare sets the standard for
+            excellence. We’re committed to innovation and aim to redefine
+            healthcare with a patient-first approach. Zeecare isn’t just a
+            hospital—it’s a partner in your journey toward health and recovery.
           </p>
-          <p>Lorem ipsum dolor sit amet!</p>
-          <p>Coding is fun!</p>
+          <p>ZeeCare hospital is the best!</p>
+          <p>BEST HOSPITAL EVERRRRRR purr</p>
         </div>
       </div>
     </>
